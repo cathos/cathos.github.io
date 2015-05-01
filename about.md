@@ -1,14 +1,14 @@
 ---
-layout: page
 title: about
+layout: page
 permalink: /about/
 ---
-# [**awake**][0] is the blog of Ethan Moore  
+#### **awake** is the blog of Ethan Moore  
 
 ![Ethan Moore][1]  
 
 Lead Barista, [GoodWorks Coffee & Tea][2]  
-Director of Vocational Training, [GoodWorks Orphan Care][3]   
+Director of Vocational Training, [GoodWorks Orphan Care][3]
 
  [0]: /
  [1]: /content/profile/profilecoffee-300x300.jpg
