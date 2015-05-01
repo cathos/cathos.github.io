@@ -1,0 +1,12 @@
+# Site settings
+title: awake
+email: enm@EthanNMoore.com
+description: > # this means to ignore newlines until "baseurl:"
+  thoughts and essays from Ethan Moore
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ethannmoore.com" # the base hostname & protocol for your site
+twitter_username: etnmo
+github_username:  cathos
+
+# Build settings
+markdown: kramdown
