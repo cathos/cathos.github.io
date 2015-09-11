@@ -3,7 +3,7 @@ title: about
 layout: page
 permalink: /about/
 ---
-#### **[awake][0]** is the blog of Ethan Moore  
+thoughts and essays from Ethan Moore  
 
 ![Ethan Moore][1]  
 
