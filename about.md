@@ -3,7 +3,7 @@ title: about
 layout: page
 permalink: /about/
 ---
-#### **awake** is the blog of Ethan Moore  
+#### **[awake][0]** is the blog of Ethan Moore  
 
 ![Ethan Moore][1]  
 
