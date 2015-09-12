@@ -3,7 +3,8 @@ title: about
 layout: page
 permalink: /about/
 ---
-thoughts and essays from Ethan Moore  
+thoughts and essays from
+  Ethan Moore  
 
 ![Ethan Moore][1]  
 
