@@ -18,7 +18,7 @@ The class from India, with Dr Creech (front center) and Dr Jun (left front) - I'
 Chris & Faith on the balcony of the resort we visited on our last day    
 ![Chris & Faith][2]    
 
-The view from a retreat that an Hmong pastor - a friend of Shooter's - has been building on a mountaintop north of Chiang Mai    
+The view from a retreat that an Hmong pastor - a friend of Shooter's - has been building on a mountaintop North of Chiang Mai    
 ![View from mountaintop retreat][3]    
 
 
